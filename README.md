@@ -1,8 +1,6 @@
 
 [DEMO](http://geniuscarrier.com/demo/webpack-boilerplate/)
 
-![GIF](http://geniuscarrier.me/images/webpack-boilerplate.gif)
-
 ### Install dependencies
 
 ```
