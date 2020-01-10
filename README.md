@@ -1,6 +1,6 @@
 # Perimeter Institute Quantum Intelligence Lab (PIQuIL)
 
-Potential website
+Potential website npm and Node.JS
 
 ### Install dependencies
 
