@@ -4,7 +4,7 @@ Potential website npm and Node React JS boilerplate
 github needs npm files
 
 ### Install dependencies
-
+This will install all the node_packages needed for the website to work
 ```
 cd to folder
 npm install
