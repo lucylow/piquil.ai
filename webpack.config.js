@@ -5,7 +5,7 @@ var extractCSS = new ExtractTextPlugin('style.css');
 
 var output = {
     path: path.resolve(__dirname, 'build'),
-    publicPath: 'https://lucylow.com/piquil.ai.com/build/',
+    publicPath: 'https://lucylow.com/piquil.ai/build/',
     filename: 'bundle.js'
 };
 
