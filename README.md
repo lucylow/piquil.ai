@@ -1,6 +1,7 @@
 # Perimeter Institute Quantum Intelligence Lab (PIQuIL)
 
 Potential website npm and Node React JS boilerplate
+github needs npm files
 
 ### Install dependencies
 
